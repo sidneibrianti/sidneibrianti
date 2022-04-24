@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://www.codewars.com/users/sidneibrianti/badges/large)
+[Code Wars](https://www.codewars.com/users/sidneibrianti/badges/large)
 
 <!--
 **sidneibrianti/sidneibrianti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
