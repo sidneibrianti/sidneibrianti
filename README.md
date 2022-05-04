@@ -1,5 +1,8 @@
 :construction: ### Em Construção! :construction:
 
+![git](https://shields.io/badge/Git-Nivel--Basico-f14e32?logo=git&style=for-the-badge)
+
+![C#](https://shields.io/badge/CSharp-Nivel--Basico-blueviolet?logo=csharp&style=for-the-badge)
 <!--
 **sidneibrianti/sidneibrianti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
