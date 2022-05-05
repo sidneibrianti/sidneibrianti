@@ -7,7 +7,7 @@
 
 ## Linguagens
 
-![C#](https://shields.io/badge/CSharp-Básico-blue?logo=csharp&logoColor=blue&style=flat)
+![C#](https://shields.io/badge/C%23-Básico-blue?logo=csharp&logoColor=blue&style=flat)
 ![Python](https://shields.io/badge/Python-Planejamento-306998?logo=python&style=flat)
 ![Javascript](https://shields.io/badge/Javascript-Planejamento-F0DB4F?logo=javascript&style=flat)
 ![Typescript](https://shields.io/badge/Typescript-Planejamento-3178C6?logo=typescript&style=flat)
