@@ -1,7 +1,7 @@
 :construction: ### Em Construção! :construction:
 
 ![git](https://shields.io/badge/Git-Basico-f14e32?logo=git&style=for-the-badge) 
-![C#](https://shields.io/badge/CSharp-Basico-blueviolet?logo=csharp&style=for-the-badge)
+![C#](https://shields.io/badge/CSharp-Basico-blue?logo=csharp&logoColor=blue&style=for-the-badge)
 
 ![Python](https://shields.io/badge/Python-Planejamento-306998?logo=python&style=for-the-badge)
 ![Javascript](https://shields.io/badge/Javascript-Planejamento-F0DB4F?logo=javascript&style=for-the-badge)
