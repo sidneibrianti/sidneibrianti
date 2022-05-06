@@ -7,6 +7,10 @@
 ## Linguagens
 
 ![C#](https://shields.io/badge/C%23-Básico-%23239120?logo=csharp&logoColor=%23239120&style=flat)
+
+## Frameworks
+
+![Dotnet#](https://shields.io/badge/.Net-Básico-%23512BD4?logo=.net&logoColor=white&style=flat)
 ## IDE
 
 ![VSCode](https://shields.io/badge/VSCode-Básico-%230078d7?logo=visual-studio-code&logoColor=%230078d7&style=flat)
