@@ -2,7 +2,7 @@
 
 ## Estatística de Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneibrianti&layout=compact)](https://github.com/sidneibrianti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneibrianti&layout=compact&theme=onedark)](https://github.com/sidneibrianti)
 
 ## Controle de Versões
 
