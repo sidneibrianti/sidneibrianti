@@ -1,5 +1,9 @@
 :construction:Em Construção!:construction:
 
+## Estatística
+
+![Sidnei Brianti Stats](https://github-readme-stats.vercel.app/api?username=sidneibrianti&theme=dark&show_icons=true)
+
 ## Controle de Versões
 
 ![git](https://shields.io/badge/Git-Básico-f14e32?logo=git&style=flat) 
