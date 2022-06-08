@@ -1,5 +1,9 @@
 :construction:Em construção continua!!!:construction:
 
+## Estatística de Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneibrianti&layout=compact&theme=onedark)](https://github.com/sidneibrianti)
+
 ## Controle de Versões
 
 ![git](https://shields.io/badge/Git-Básico-f14e32?logo=git&style=flat) 
