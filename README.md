@@ -1,8 +1,8 @@
 :construction:Em Construção!:construction:
 
-## Estatística
+## Estatística de Linguagens
 
-![Sidnei Brianti Stats](https://github-readme-stats.vercel.app/api?username=sidneibrianti&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneibrianti&layout=compact)](https://github.com/sidneibrianti)
 
 ## Controle de Versões
 
