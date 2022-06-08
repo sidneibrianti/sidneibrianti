@@ -1,4 +1,4 @@
-:construction:Em construção continua!!!:construction:
+:construction:Em construção contínua!!!:construction:
 
 ## Estatística de Linguagens
 
